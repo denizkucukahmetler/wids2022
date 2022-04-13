@@ -218,7 +218,7 @@
                // $(this) is set to the element with the popover
                // get your_data, 
 			   var index = parseInt($(this).attr("id"));
-      if($.i18n().locale == 'en'){
+      if($.i18n().locale == 'tr'){
         return biolist[index];
       }
 
@@ -259,18 +259,18 @@
       "busek":"Data Science Master Student at Sabancı University and Data Analyst at ÇiçekSepeti",
       "elifoz": "Molecular Biology and Genetics Student at Acibadem University",
       "speakers_ab":"WiDS Istanbul will host 14 speakers this year.",
-      "ozge_is":"Senior Data Scientist at Instacart",
-      "selen":"Research Scientist at Stanford University School of Medicine",
-      "burcu":"Senior Machine Learning Engineer at LinkedIn",
-      "suveyda":"Associate/Specialist at McKinsey & Company",
-      "pinar":"Professor and Chair of Computer Engineering at Hacettepe University",
-      "gozde":"Professor of AI & Data/ Computer Engineering at Istanbul Technical University; ITU AI Center, Founding Member",
-      "sera":"Associate Data Scientist at Philip Morris International",
-      "pelin":"Data Analyst at JotForm",
-      "damla":"CEO at AppNava, Co-founder",
-      "mina":"Founder of UP School",
-      "seyhan":"Principal Algorithm Research Engineer at SK hynix America Inc.",
-      "pinar_er":"Data Scientist at Commencis",
+      "meltemBallan":" Principal and Founding Partner, Concrete Engine",
+      "ozlemBilginer":" Senior Operations Research Scientist, Amazon",
+      "zeynepErkinBaz":" Manager Data Science, Facebook",
+      "fatmaGunturkun":" Research Fellow, The Univ. of Tennessee Health Science Center",
+      "seymanurCapaoglu":" Data Analyst, Truepill",
+      "gozdeBozdagi":"Professor, Department of Electrical Engineering, Middle East Technical University",
+      "merveNoyan":" Developer, Hugging Face",
+      "elifOzkirimli":"Head of Data Science and Advanced   Analytics, Pharma International Data and Analytics Chapter at Roche",
+      "haticeOsmanbeyoglu":"Assistant Professor, Department of Biomedical Informatics, University of Pittsburgh",
+      "begumYolcu":"Data Engineer, Vodafone",
+      "sukejnaValjevac":"R&D Senior Data Scientist, HSBC, UK",
+      "cisemAltan":" Senior Machine Learning Engineer, Dogma Alares",
       "fatma":"Assistant Professor at Koç University",
       "wids":"Women in Data Science",
       "conference":"Conference 2021",
@@ -289,7 +289,7 @@
       "oznur":"Assistant Professor at Sabanci University",
       "ozgeoz":"Data Science Instructor at BTK Akademi",
       "keynote":"KEYNOTE SPEAKER",
-      "aytulinfo": "Aytül Erçil, Professor; Partner and CEO, Vispera",
+      "berrinYanikoglu": "Professor, Computer Science and Engineering, Sabanci University & Director of Center of Data Analytics  (VERİM) at Sabanci University",
     }
 
 		} );
