@@ -987,9 +987,10 @@ section {
 
 .team .member .pic {
   overflow: hidden;
-  width: 150px;
+  width: 160px;
   border-radius: 50%;
   margin: 0 auto 20px auto;
+  max-height: 170px;
 }
 
 .team .member .pic img {
