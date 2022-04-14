@@ -258,6 +258,7 @@
       "asuman":"Bioinformatics PhD Student at University College Cork",
       "emineAyseSunar":"Computer Science and Engineering Master Student at Sabanci University",
       "busek":"Data Science Master Student at Sabancı University and Data Analyst at ÇiçekSepeti",
+      "senaOzkan":"Visual Designer at Perfist",
       "elifoz": "Molecular Biology and Genetics Student at Acibadem University",
       "speakers_ab":"WiDS Istanbul will host 13 speakers this year.",
       "meltemBallan":" Principal and Founding Partner, Concrete Engine",

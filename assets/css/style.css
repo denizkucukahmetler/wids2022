@@ -1026,6 +1026,7 @@ section {
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
+  min-height: 1px;
 }
 
 .team .member p {
