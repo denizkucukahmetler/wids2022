@@ -260,7 +260,7 @@
       "busek":"Data Science Master Student at Sabancı University and Data Analyst at ÇiçekSepeti",
       "senaOzkan":"Visual Designer at Perfist",
       "elifoz": "Molecular Biology and Genetics Student at Acibadem University",
-      "speakers_ab":"WiDS Istanbul will host 13 speakers this year.",
+      "speakers_ab":"WiDS Istanbul will host 16 speakers this year.",
       "meltemBallan":" Principal and Founding Partner, Concrete Engine",
       "ozlemBilginer":" Senior Operations Research Scientist, Amazon",
       "zeynepErkinBaz":" Manager Data Science, Facebook",
