@@ -250,7 +250,7 @@
       "amb": "Ambassadors",
       "buket":"Industrial Engineering Student at Sabanci University",
       "emine":"Computer Science and Engineering Master Student at Sabanci University",
-      "deniz":"Computer Science and Engineering Student at Sabanci University",
+      "deniz":"Machine Learning Engineer at aigoritma",
       "oyku":"Computer Science and Engineering Master Student at Sabanci University",
       "ozlem":"Computer Science and Engineering Student at Erciyes University",
       "busra":"Data Science Master Student at Sabanci University and Data Scientist at Garanti BBVA",
