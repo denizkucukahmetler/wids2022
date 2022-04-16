@@ -284,7 +284,7 @@
       "volunteers2": "Volunteers",
       "ambass2": "Ambassadors",
       "supporters2": "Supporters",
-      "program":'<h3>Program Stream</h3><a id="program_link" class="cta-btn" href="https://drive.google.com/file/d/1IgYaglAdLQPMYSC2yALp8U1dOb6_N3kn/view?usp=sharing" target="blank">Download program stream</a>',
+      "program":'<h3>Program Stream</h3><a id="program_link" class="cta-btn" href="https://docs.google.com/document/d/1TRYuL4fqTBgvD5nQXsqHeEFriCLeLOd1/edit" target="blank">Download program stream</a>',
       "date":'MAY 21<span class="ordinal">th</span>, 2022',
       "aslihan":"Research Scientist at Vianai Systems Inc.",
       "oznur":"Assistant Professor at Sabanci University",
