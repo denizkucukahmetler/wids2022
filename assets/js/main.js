@@ -208,26 +208,27 @@
     aos_init();
   });
   
-  //BİO POP-OVER function
-  $('.speaker').hover(function() {
 
-   $(this).popover({
-      trigger: 'hover',
-      content: function() {
+ //BİO POP-OVER function
+ $('.speaker').hover(function() {
 
-               // $(this) is set to the element with the popover
-               // get your_data, 
-			   var index = parseInt($(this).attr("id"));
-      if($.i18n().locale == 'tr'){
-        return biolist[index];
-      }
+  $(this).popover({
+     trigger: 'hover',
+     content: function() {
 
-            },
-      placement: 'bottom'
-    })
-    .popover('show');
+              // $(this) is set to the element with the popover
+              // get your_data, 
+        var index = parseInt($(this).attr("id"));
+     if($.i18n().locale == 'tr'){
+       return biolist[index];
+     }
 
- });  
+           },
+     placement: 'bottom'
+   })
+   .popover('show');
+
+});  
  
  	 var update_texts = function(){
 		 $('body').i18n();
