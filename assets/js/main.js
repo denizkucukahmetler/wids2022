@@ -258,7 +258,7 @@
       "busecarik":"Computer Science and Engineering Master Student at Sabanci University",
       "asuman":"Bioinformatics PhD Student at University College Cork",
       "emineAyseSunar":"Computer Science and Engineering Master Student at Sabanci University",
-      "busek":"Data Science Master Student at Sabancı University and Data Analyst at ÇiçekSepeti",
+      "busek":"Data Science Master Student at Sabancı University and Data Scientist at Invent Analytics",
       "senaOzkan":"Visual Designer at Perfist",
       "elifoz": "Molecular Biology and Genetics Student at Acibadem University",
       "speakers_ab":"WiDS Istanbul will host 16 speakers this year.",
