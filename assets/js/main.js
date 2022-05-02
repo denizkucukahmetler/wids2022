@@ -265,7 +265,7 @@
       "meltemBallan":" Principal and Founding Partner, Concrete Engine",
       "ozlemBilginer":" Senior Operations Research Scientist, Amazon",
       "zeynepErkinBaz":" Manager Data Science, Facebook",
-      "fatmaGunturkun":" Research Fellow, The Univ. of Tennessee Health Science Center",
+      "fatmaGunturkun":" Sr. Biomedical Analyst, The Univ. of Tennessee Health Science Center",
       "seymanurCapaoglu":" Data Analyst, Truepill",
       "gozdeBozdagi":"Professor, Department of Electrical Engineering, Middle East Technical University",
       "merveNoyan":" Developer, Hugging Face",
